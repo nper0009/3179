@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Daily New Covid Cases (22/01/2020-27/07/2020)" },
+    "width": 1000,
+    "height": 500,
     "data": {
     "url":
     "https://raw.githubusercontent.com/nper0009/3179/main/Visualization2/day_wise.csv"
