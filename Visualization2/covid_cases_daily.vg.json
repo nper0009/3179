@@ -29,7 +29,7 @@
           "color": {"value": "red"},
           "size": {"value": 1},
           "tooltip": [
-            {"field": "New cases", "aggregate": "max", "format": ",.0f", "title": "Highest Daily Cases Recorded"}
+            {"field": "New cases", "aggregate": "max", "format": ",.0f", "title": "Most Cases Recorded"}
           ]
     }
 }
