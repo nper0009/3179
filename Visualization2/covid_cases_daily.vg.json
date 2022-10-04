@@ -32,7 +32,27 @@
             {"field": "New cases", "aggregate": "max", "format": ",.0f", "title": "Most Cases Recorded"}
           ]
     }
+},
+{
+    "mark": {
+        "type": "text",
+        "align": "left",
+        "fontSize": 11.5,
+        "fontStyle": "italic",
+        "x": 955,
+        "y": 20
+        },
+        "encoding": {
+        "text": {"field": "New cases", "type": "quantitative", "format": ",.0f"},
+        "color": {"value": "black"},
+        "opacity": {
+            "condition": {"test":"datum['New cases'] == 282756",
+                "value": 1
+                },
+                "value": 0
 }
+        }
+    }
     ]
 }
     
