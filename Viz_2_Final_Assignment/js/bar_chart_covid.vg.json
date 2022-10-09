@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": { "text": "Countries with >200'000 Covid Cases (22/01/2020-27/07/2020)" },
-    "width": "container",
-    "height": "container",
+    "width": 254,
+    "height": 200,
     "data": {
     "url":
     "https://raw.githubusercontent.com/nper0009/3179/main/Visualization2/country_wise_latest.csv"
