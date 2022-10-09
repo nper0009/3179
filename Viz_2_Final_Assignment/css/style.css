@@ -8,6 +8,9 @@ h1 {
 
 body {
     background-color: lightgray;
+    margin: auto;
+    width: 1200px; 
+    padding: 100px;
 }
 
 .page {
