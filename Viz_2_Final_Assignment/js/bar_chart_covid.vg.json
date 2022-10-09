@@ -27,6 +27,7 @@
       {"field": "Confirmed", "type": "quantitative", 
       "title": "Total Confirmed Cases", "format": ",.0f"}
     ]
-    }
+    },
+    "config": {}
 }
     
