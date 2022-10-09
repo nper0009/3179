@@ -32,7 +32,7 @@
             {"field": "New cases", "aggregate": "max", "format": ",.0f", "title": "Most Cases Recorded"}
           ]
     }
-},
+}
     ],
     "config": {}
 }
