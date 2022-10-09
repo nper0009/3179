@@ -23,7 +23,11 @@
     "x": { "field": "Confirmed", "type": "quantitative"},
     "y": { "field": "Country/Region", "type": "nominal",
     "sort": { "encoding": "x", "order": "descending"}
-    }
+    },
+    "tooltip": [
+      {"field": "Confirmed", "type": "quantitative", 
+      "title": "Total Confirmed Cases", "format": ",.0f"}
+    ]
     }
 }
     
