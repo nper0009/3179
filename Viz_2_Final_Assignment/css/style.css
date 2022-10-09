@@ -4,6 +4,7 @@ body *{
 
 h1 {
     font-weight: 900;
+    text-align: center;
 }
 
 body {
@@ -38,6 +39,7 @@ h1 {
 
 .pure-g {
     margin-bottom: 40px;
+    text-align: center;
 }
 
 .small-font {
