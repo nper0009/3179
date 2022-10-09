@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": "container",
-  "height": "container",
+    "width": 254,
+    "height": 200,
   "title": "COVID-19 Confirmed Cases Per Country (22/01/2020-27/07/2020)",
   "projection": {"type": "equalEarth"},
   "layer": [
