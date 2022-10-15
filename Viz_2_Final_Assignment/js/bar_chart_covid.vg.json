@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": { "text": "Countries with >250'000 Covid Cases" },
+    "title": { "text": "Countries with >300'000 Covid Cases" },
     "width": "container",
     "data": {
     "url":
@@ -14,7 +14,7 @@
           }],
           "sort": [{ "field": "Confirmed", "order": "ascending" }]
         }, {
-            "filter": "datum.Confirmed > 250000"
+            "filter": "datum.Confirmed > 300000"
         }
       ],
     "mark": "bar",
