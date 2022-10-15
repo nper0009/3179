@@ -8,13 +8,13 @@ h1 {
 }
 
 body {
-    background-color: white;
+    background-color: lightgray;
     width: 80%;
 }
 
 .page {
     width: 850px;
-    background-color: lightgray;
+    background-color: white;
     margin: auto;
     padding: 50px;
     padding-top: 35px;
